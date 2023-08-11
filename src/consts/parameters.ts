@@ -10,10 +10,10 @@ export const contractConst = "0x851c7B9e99dfdCA51468636C53d51fDb36Aa3363";
 export const chainConst = "polygon";
 
 // Configure the primary color for buttons and other UI elements
-export const primaryColorConst = "blue";
+export const primaryColorConst = "purple";
 
 // Choose between "light" and "dark" mode
-export const themeConst = "dark";
+export const themeConst = "light";
 
 // Gasless relayer configuration options
 export const relayerUrlConst = ""; // OpenZeppelin relayer URL
