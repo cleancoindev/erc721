@@ -19,4 +19,4 @@ export const themeConst = "dark";
 export const relayerUrlConst = ""; // OpenZeppelin relayer URL
 export const biconomyApiKeyConst = ""; // Biconomy API key
 export const biconomyApiIdConst = ""; // Biconomy API ID
-export const clientIdConst = ""; // Client ID
+export const clientIdConst = "5b4430e33aa895c297254791cfcad593"; // Client ID
